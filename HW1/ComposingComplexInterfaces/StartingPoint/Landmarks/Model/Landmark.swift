@@ -47,3 +47,5 @@ struct Landmark: Hashable, Codable, Identifiable {
         var longitude: Double
     }
 }
+
+
